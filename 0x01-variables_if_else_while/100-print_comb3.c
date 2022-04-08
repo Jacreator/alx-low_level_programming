@@ -10,7 +10,7 @@ int main(void)
 	int number = 48;
 	int secondNumber = 49;
 
-	while (number < 56)
+	while (number <= 56)
 	{
 		while (secondNumber <= 57)
 		{
