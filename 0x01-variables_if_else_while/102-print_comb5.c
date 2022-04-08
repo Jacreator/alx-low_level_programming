@@ -10,9 +10,9 @@ int main(void)
 	int number;
 	int secondNumber;
 
-	for (number = 0; number <= 100; number++)
+	for (number = 0; number < 100; number++)
 	{
-		for (secondNumber = 0; secondNumber <= 100; secondNumber++)
+		for (secondNumber = 0; secondNumber < 100; secondNumber++)
 		{
 			if (secondNumber > number)
 			{
