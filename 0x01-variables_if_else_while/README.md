@@ -2,3 +2,4 @@ The file 0-positive_or_negative.c prints output when a number is positive, negat
 The file 1-digit.c print the last digit of a give number using modular sign
 The file 2-print_alphabet.c prints alphabets in small letter
 The file 3-print_alphabets.c prints alphabets in small letter and captial letter 
+The file 4-print_alphabt.c prints alphabets ins lower case except e and q
