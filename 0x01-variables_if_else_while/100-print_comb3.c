@@ -7,12 +7,12 @@
 */
 int main(void)
 {
-	int number = 48;
-	int secondNumber = 49;
+	int number;
+	int secondNumber;
 
-	for (number; number <= 56; number++)
+	for (number = 48; number <= 56; number++)
 	{
-		for (secondNumber; secondNumber <= 57; secondNumber++)
+		for (secondNumber = 49; secondNumber <= 57; secondNumber++)
 		{
 			if (secondNumber > number)
 			{
