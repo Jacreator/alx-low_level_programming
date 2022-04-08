@@ -8,3 +8,4 @@ The file 6-print_numberz.c prints single digit numbers using putchar function on
 The file 7-print_tebahpla.c print alphabets in reverse order
 The file 8-print_base16.c produce the output of base 16 numbers
 The file 9-print_comb.c prints single digit with commas in it
+The file 100-print_comb3.c prints double digits with commas 
