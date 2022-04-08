@@ -10,9 +10,9 @@ int main(void)
 	int number = 48;
 	int secondNumber = 49;
 
-	while (number <= 56)
+	for (number; number <= 56; number++)
 	{
-		while (secondNumber <= 57)
+		for (secondNumber; secondNumber <= 57; secondNumber++)
 		{
 			if (secondNumber > number)
 			{
@@ -24,9 +24,7 @@ int main(void)
 					putchar(' ');
 				}
 			}
-			secondNumber++;
 		}
-		number++;
 	}
 	putchar('\n');
 	return (0);
