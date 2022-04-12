@@ -8,3 +8,4 @@ The file 6-abs.c returns absolute number of any given integer input
 The file 7-print_last_digit.c print the last digit of a number
 The file 8-24_hours.c prints the minute of 24 hours
 The file 9-times_table.c print the time table format
+The file 10-add.c adds the two input giveing to the add function
