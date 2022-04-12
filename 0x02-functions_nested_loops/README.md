@@ -7,3 +7,4 @@ The file 5-sign.c makes a check and print + n > 0, 0 n == 0 and - n < 0 return 1
 The file 6-abs.c returns absolute number of any given integer input
 The file 7-print_last_digit.c print the last digit of a number
 The file 8-24_hours.c prints the minute of 24 hours
+The file 9-times_table.c print the time table format
