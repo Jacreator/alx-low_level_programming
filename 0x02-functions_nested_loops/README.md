@@ -11,3 +11,4 @@ The file 9-times_table.c print the time table format
 The file 10-add.c adds the two input giveing to the add function
 The file 11-print_to_98.c prints from the input numbet to 98 from positive or negative direction
 The file 100-times_table.c prints the mult-table base on the input for 15 rows
+The file 101-natural.c print the sum modulus of 3 and 5 
