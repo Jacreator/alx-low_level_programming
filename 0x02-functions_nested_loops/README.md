@@ -14,3 +14,4 @@ The file 100-times_table.c prints the mult-table base on the input for 15 rows
 The file 101-natural.c print the sum modulus of 3 and 5 
 The file 102-fibonacci.c print the serise to 1024
 The file 103-fibonacci.c prints the sum of even-valued terms before 4 million
+The file 104-fibonacci.c find and print the first 98 fibonacci numbers
