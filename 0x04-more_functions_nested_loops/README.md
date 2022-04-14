@@ -8,3 +8,4 @@ The file 6-print_line.c prints line on the screen
 The file 7-print_diagonal.c prints diagonal 
 The file 8-print_square.c prints Hash 
 The file 9-fizz_buzz.c print fizz buzz
+The file 10-print_triangle.c prints triangle
