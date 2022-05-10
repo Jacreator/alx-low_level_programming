@@ -1,5 +1,4 @@
 #include "main.h"
-#include <limits.h>
 
 /**
  * str_len - finds string length
